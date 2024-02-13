@@ -1,10 +1,10 @@
 # Capturing Book Cover
-This project is a simple graphical user interface (GUI) application that allows users to load an image of a book cover and extract the possible title using optical character recognition (OCR). The project is implemented in Python and utilizes the OpenCV, EasyOCR, and Tkinter libraries.
+This project is a simple graphical user interface (GUI) application that allows users to load an image of a book cover and extract the possible title using optical character recognition (OCR). The project is implemented in Python and utilizes the OpenCV, EasyOCR, and Tkinter libraries. <br />
+
+Leveraging the OpenCV and EasyOCR libraries, the function takes an image and a language code as input, detecting and extracting text with a specified confidence threshold. It utilizes bounding boxes to highlight the identified text regions and displays both the recognized text and the annotated image using Matplotlib.
 
 ## Notes
-Ensure you have the required libraries installed using the following command:
-
-```bash pip install opencv-python easyocr matplotlib ```
+Ensure to install the necessary dependencies, including OpenCV, EasyOCR, Matplotlib, and NumPy.
 
 ## Usage
 1. Run the script, and a GUI window titled "Book Title Extraction" will appear.
