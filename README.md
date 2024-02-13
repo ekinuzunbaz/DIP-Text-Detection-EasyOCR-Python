@@ -3,7 +3,7 @@ This project is a simple graphical user interface (GUI) application that allows 
 
 ## Note
 Ensure you have the required libraries installed using the following command:
-``` pip install opencv-python easyocr matplotlib
+``` pip install opencv-python easyocr matplotlib ```
 
 ## Usage
 1. Run the script, and a GUI window titled "Book Title Extraction" will appear.
