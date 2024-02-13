@@ -12,3 +12,12 @@ Ensure you have the required libraries installed using the following command:
 3. Select the language of the text on the book cover (English or Turkish) from the drop-down menu.
 4. Click the "Extract Title" button to initiate the OCR process and extract the possible title.
 5. The extracted text will be displayed in a new window. You can copy it to the clipboard using the "Copy to Clipboard" button.
+
+## Screenshots
+![Book Title Extraction](https://github.com/ekinuzunbaz/DIP-Text-Detection-EasyOCR-Python/assets/73299618/3f9173b4-f4ee-4d62-8f88-495a86bda38a)
+<br /><br />
+![Load Image of Book Cover](https://github.com/ekinuzunbaz/DIP-Text-Detection-EasyOCR-Python/assets/73299618/516dd1dd-31a1-44a0-ada3-3da66d62cd0d)
+<br /><br />
+![Lanuage Selection](https://github.com/ekinuzunbaz/DIP-Text-Detection-EasyOCR-Python/assets/73299618/3f9173b4-f4ee-4d62-8f88-495a86bda38a)
+<br /><br />
+![Extract Title](https://github.com/ekinuzunbaz/DIP-Text-Detection-EasyOCR-Python/assets/73299618/ec158974-da2d-48e6-ab84-8be8c20cf01b)
